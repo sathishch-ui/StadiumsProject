@@ -11,7 +11,7 @@ const constants = {
   },
 
   API_URL: {
-    SPORTS: "https://dev.api.stadiumrover.com/api/v1/sports",
+    // SPORTS: "https://dev.api.stadiumrover.com/api/v1/sports",
   },
 };
 
