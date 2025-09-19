@@ -1,3 +1,5 @@
+import Image from "../assets/place-holder.svg";
+
 const constants = {
   PAGE_TITLE: {
     SPORTS: "Sports",
@@ -6,12 +8,11 @@ const constants = {
   },
 
   PLACEHOLDER: {
-    IMG_URL:
-      "https://storage.googleapis.com/stadium_rover/assets/place-holder.svg",
+    IMG_URL: Image,
   },
 
   API_URL: {
-    // SPORTS: "https://dev.api.stadiumrover.com/api/v1/sports",
+    SPORTS: "https://stadiumsbackend.vercel.app/api/sports",
   },
 };
 
